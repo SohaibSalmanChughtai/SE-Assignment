@@ -6,3 +6,8 @@ Admin can delete and and add buses
 Admin can delete and add managers 
 Passenger can cancel booking
 Passenger can pay through cash or online.
+
+
+Passenger Karta Dharta hai Yahan ka
+Passenger Papa Jaani hain yahan ky.
+Tang nai karna Passeger ko warna Aesi ki tesi phair deni
