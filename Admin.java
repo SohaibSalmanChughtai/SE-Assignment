@@ -1,5 +1,4 @@
-import static net.mindview.util.Range.*;
-import static net.mindview.util.Print.*;
+
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
